@@ -1,4 +1,5 @@
-## Hi there, my name is Vladislav👋
+# Hi there, my name is Vladislav👋
+## Currently looking for Junior FullStack Position
 ### Let me tell you about my learning path...
 #### I've started with freecodecamp at the beggining of my coding journey and continued with a full stack udemy course, watched the whole of it twice coding along fullStack project with lector but JavaScript was not that clear for me :(                                                                                       However, i started my journey with Bulgarian's Softuni JS courses, finished it, as last courses were BACK-END(NODE n EXPRESS) and REACT! Now i really feel confident in my JS skills and and writting clean code.
 #### As my lecturer was saying, you should not write comments for your code, it should be self-explanatory!
