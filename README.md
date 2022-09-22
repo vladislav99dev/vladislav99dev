@@ -1,4 +1,12 @@
-### Hi there, my name is Vladislav👋
+## Hi there, my name is Vladislav👋
+### Let me tell you about my learning path...
+#### I've started with freecodecamp at the beggining of my coding journey and continued with a full stack udemy course, watched the whole of it twice coding along fullStack project with lector but JavaScript was not that clear for me :(                                                                                       However, i started my journey with Bulgarian's Softuni JS courses, finished it, as last courses were BACK-END(NODE n EXPRESS) and REACT! Now i really feel confident in my JS skills and and writting clean code.
+#### As my lecturer was saying, you should not write comments for your code, it should be self-explanatory!
+#### Thank you for spending time visiting my profile. 
+### Have a nice day!
+
+
+
 ![image](https://user-images.githubusercontent.com/74834080/191703445-1a387266-cb49-449b-8d2b-eb71a4b5f0c5.png)
 ![image](https://user-images.githubusercontent.com/74834080/191703173-3bdebdf0-88cf-440e-9b9e-2178bff502ed.png)
 ![image](https://user-images.githubusercontent.com/74834080/191703216-9f0111df-51fa-4e7c-ba00-949a867fed44.png)
@@ -15,20 +23,6 @@
 ![image](https://user-images.githubusercontent.com/74834080/191704432-22181ffe-e18b-465c-ab53-d2b0c978942e.png)
 
 
+:handshake:Connect with me:handshake:
 
 
-
-<!--
-**vladislav99dev/vladislav99dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
