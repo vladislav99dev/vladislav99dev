@@ -7,7 +7,7 @@
 ### Have a nice day!
 
 
-
+## Tech's i've used and currently using ...
 ![image](https://user-images.githubusercontent.com/74834080/191703445-1a387266-cb49-449b-8d2b-eb71a4b5f0c5.png)
 ![image](https://user-images.githubusercontent.com/74834080/191703173-3bdebdf0-88cf-440e-9b9e-2178bff502ed.png)
 ![image](https://user-images.githubusercontent.com/74834080/191703216-9f0111df-51fa-4e7c-ba00-949a867fed44.png)
