@@ -25,5 +25,5 @@
 
 
 :handshake:Connect with me:handshake:
-<a href="mailto:vladislavdorovski@gmail.com"><img src="https://img.shields.io/badge/-tsvetislavt99@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:vladislavdorovski@gmail.com"><img src="https://img.shields.io/badge/-vladislavdorovski@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 
