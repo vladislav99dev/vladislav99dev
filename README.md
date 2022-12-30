@@ -1,5 +1,6 @@
 # Hi there, my name is Vladislav👋
-## Currently working @Webrika
+## Currently working @Webrika as React Developer
+    - a project i did on my own for the company https://webrika.netlify.app/ w/ Gatsby
 #### As my lecturer was saying, you should not write comments for your code, it should be self-explanatory!
 #### Thank you for spending time visiting my profile. 
 ### Have a nice day!
