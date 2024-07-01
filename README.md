@@ -1,5 +1,5 @@
 # Hi there, my name is Vladislav👋
-## Currently working @Webrika as React Developer
+## Currently working @A1 Digital as Software Engineer
     - a project i did on my own for the company https://webrika.netlify.app/ w/ Gatsby
     - currently im about to finish an e-commerce store in which im using MERN stack (can be found in fullstack e-shop repo)
 #### As my lecturer was saying, you should not write comments for your code, it should be self-explanatory!
